@@ -8,7 +8,7 @@ var Utils = DMI.Utils;
 var mod_dir = 'mods/'
 
 
-DMI.loaded_mod_files = [];
+DMI.loaded_mod_files = ["DomEnhanced1_83.dm"];
 DMI.loaded_local_mod_files = [];
 
 
